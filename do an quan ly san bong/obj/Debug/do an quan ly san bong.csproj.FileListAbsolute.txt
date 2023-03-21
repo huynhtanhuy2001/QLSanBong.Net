@@ -1,0 +1,227 @@
+C:\Users\HP\Desktop\do an quan ly san bong\do an quan ly san bong\bin\Debug\do an quan ly san bong.exe.config
+C:\Users\HP\Desktop\do an quan ly san bong\do an quan ly san bong\bin\Debug\do an quan ly san bong.exe
+C:\Users\HP\Desktop\do an quan ly san bong\do an quan ly san bong\bin\Debug\do an quan ly san bong.pdb
+C:\Users\HP\Desktop\do an quan ly san bong\do an quan ly san bong\obj\Debug\do an quan ly san bong.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\do an quan ly san bong\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.flogin.resources
+C:\Users\HP\Desktop\do an quan ly san bong\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Properties.Resources.resources
+C:\Users\HP\Desktop\do an quan ly san bong\do an quan ly san bong\obj\Debug\do an quan ly san bong.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\do an quan ly san bong\do an quan ly san bong\obj\Debug\do an quan ly san bong.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\do an quan ly san bong\do an quan ly san bong\obj\Debug\do an quan ly san bong.exe
+C:\Users\HP\Desktop\do an quan ly san bong\do an quan ly san bong\obj\Debug\do an quan ly san bong.pdb
+C:\Users\HP\Desktop\do an quan ly san bong\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.ManHinhChinh.resources
+C:\Users\HP\Desktop\do an quan ly san bong\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Danh_Sách_Nhân_Viên.resources
+C:\Users\vuvie\Desktop\do an quan ly san bong\do an quan ly san bong\bin\Debug\do an quan ly san bong.exe.config
+C:\Users\vuvie\Desktop\do an quan ly san bong\do an quan ly san bong\bin\Debug\do an quan ly san bong.exe
+C:\Users\vuvie\Desktop\do an quan ly san bong\do an quan ly san bong\bin\Debug\do an quan ly san bong.pdb
+C:\Users\vuvie\Desktop\do an quan ly san bong\do an quan ly san bong\obj\Debug\do an quan ly san bong.csproj.AssemblyReference.cache
+C:\Users\vuvie\Desktop\do an quan ly san bong\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Danh_Sách_Nhân_Viên.resources
+C:\Users\vuvie\Desktop\do an quan ly san bong\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.flogin.resources
+C:\Users\vuvie\Desktop\do an quan ly san bong\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.ManHinhChinh.resources
+C:\Users\vuvie\Desktop\do an quan ly san bong\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Properties.Resources.resources
+C:\Users\vuvie\Desktop\do an quan ly san bong\do an quan ly san bong\obj\Debug\do an quan ly san bong.csproj.GenerateResource.cache
+C:\Users\vuvie\Desktop\do an quan ly san bong\do an quan ly san bong\obj\Debug\do an quan ly san bong.csproj.CoreCompileInputs.cache
+C:\Users\vuvie\Desktop\do an quan ly san bong\do an quan ly san bong\obj\Debug\do an quan ly san bong.exe
+C:\Users\vuvie\Desktop\do an quan ly san bong\do an quan ly san bong\obj\Debug\do an quan ly san bong.pdb
+C:\Users\vuvie\Desktop\do an quan ly san bong\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.quan_ly_tk.resources
+C:\Users\vuvie\Desktop\do an quan ly san bong\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Tìm_Kiếm.resources
+C:\Users\vuvie\Desktop\do an quan ly san bong\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Fquenmk.resources
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\do an quan ly san bong.exe.config
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\do an quan ly san bong.exe
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\do an quan ly san bong.pdb
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Danh_Sách_Nhân_Viên.resources
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.flogin.resources
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Fquenmk.resources
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.ManHinhChinh.resources
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Properties.Resources.resources
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.quan_ly_tk.resources
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Tìm_Kiếm.resources
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do an quan ly san bong.csproj.GenerateResource.cache
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do an quan ly san bong.csproj.CoreCompileInputs.cache
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do an quan ly san bong.exe
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do an quan ly san bong.pdb
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.FchucVuNV.resources
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.FsanBong.resources
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Fkhach.resources
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.FphiueuDatsan.resources
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Ftinhtien.resources
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\EntityFramework.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\EntityFramework.xml
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\RdlCompile.cache
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\RdlCompile.compiled
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\EnvDTE.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\stdole.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Microsoft.MSXML.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Freport.resources
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do an quan ly san bong.csproj.AssemblyReference.cache
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Reporthoadon.rdlc
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.FormreportPHIEUDATSAN.resources
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Report1.rdlc
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Fphieuguixe.resources
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Floaisan.resources
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.FREPORTDSNV.resources
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\reportDANHSACHNHANVIEN.rdlc
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Ftongdoanhthutheongaythang.resources
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.bangchamcong.resources
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Formreportbangchamcong.resources
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Reportbangchamcong.rdlc
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Formreportbangluong.resources
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ReportBANGLUONG.rdlc
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Ftinhluongtheongaythangtuychon.resources
+C:\Users\vuvie\Desktop\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.FDANHSACHSANBONG.resources
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Report1.rdlc
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Reportbangchamcong.rdlc
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ReportBANGLUONG.rdlc
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\reportDANHSACHNHANVIEN.rdlc
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Reporthoadon.rdlc
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\do an quan ly san bong.exe.config
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\do an quan ly san bong.exe
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\do an quan ly san bong.pdb
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\EntityFramework.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\EntityFramework.SqlServer.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\EnvDTE.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\stdole.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\Microsoft.MSXML.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\EntityFramework.xml
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\EntityFramework.SqlServer.xml
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do an quan ly san bong.csproj.AssemblyReference.cache
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.bangchamcong.resources
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Danh_Sách_Nhân_Viên.resources
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.FchucVuNV.resources
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.FDANHSACHSANBONG.resources
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Fkhach.resources
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Floaisan.resources
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.flogin.resources
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Formreportbangchamcong.resources
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Formreportbangluong.resources
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.FormreportPHIEUDATSAN.resources
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Fphieuguixe.resources
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.FphiueuDatsan.resources
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Fquenmk.resources
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Freport.resources
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.FREPORTDSNV.resources
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.FsanBong.resources
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Ftinhluongtheongaythangtuychon.resources
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Ftinhtien.resources
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Ftongdoanhthutheongaythang.resources
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.ManHinhChinh.resources
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Properties.Resources.resources
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.quan_ly_tk.resources
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do_an_quan_ly_san_bong.Tìm_Kiếm.resources
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do an quan ly san bong.csproj.GenerateResource.cache
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do an quan ly san bong.csproj.CoreCompileInputs.cache
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do an quan ly san bong.csproj.CopyComplete
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do an quan ly san bong.exe
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do an quan ly san bong.pdb
+D:\DoAn\do an san bong nhom 5\do an san bong nhom 5\do an quan ly san bong\obj\Debug\do an quan ly san bong.csproj.SuggestedBindingRedirects.cache
